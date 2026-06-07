@@ -15,3 +15,6 @@
    4. Password: If you haven't set a user password, go to System Settings -> Users -> Change Password.
    5. Run: Double-click the "Install ACPI Call" icon on your Desktop. Provide your password when
       prompted.
+
+ Important Notes
+System Updates: Because SteamOS uses an immutable root filesystem, you must re-run this script after every system update, as updates will wipe the installed module.
