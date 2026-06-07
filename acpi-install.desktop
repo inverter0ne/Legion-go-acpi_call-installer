@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=System;Utility;
+Comment[uk_UA]=Встановити/оновити acpi_call для Legion Go
+Comment=Встановити/оновити acpi_call для Legion Go
+Exec=pkexec /home/deck/acpi-install.sh
+GenericName[uk_UA]=
+GenericName=
+Icon=system-run
+MimeType=
+Name[uk_UA]=acpi-install
+Name=acpi-install
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
